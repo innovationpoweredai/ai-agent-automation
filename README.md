@@ -105,3 +105,20 @@ It is **evidence**.
 ## License
 
 MIT License
+
+
+
+
+
+
+User Prompt
+   ↓
+Local Flask Server (Windows)
+   ↓
+AI Reasoning (API)
+   ↓
+Local Execution (pyautogui, subprocess)
+   ↓
+Screenshot
+   ↓
+Next Step
