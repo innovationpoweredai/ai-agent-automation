@@ -1,5 +1,5 @@
 # AI Agent Automation (Experimental)
-
+This project is intentionally incomplete. If you enjoy understanding systems by reconstructing missing logic, this repo is an invitation.
 ## Overview
 
 This repository contains an **experimental AI-assisted automation agent** designed to execute user-defined tasks on a computer using a **closed-loop perception–action cycle**.
